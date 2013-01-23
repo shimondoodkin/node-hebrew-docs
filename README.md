@@ -34,7 +34,7 @@ Windows:
     vcbuild.bat test
 
 ### To build the documentation:
- # build node.js first
- # run
+
+build node.js first
  
     make doc
