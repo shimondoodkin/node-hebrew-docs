@@ -2,8 +2,8 @@ Translation of Node.js Docs to hebrew
 ===
 
 ### Translation Method
- * work in branch hebrew-docs
- * after node doces has been updated to use git rebase (the git command not known yet - write it here in readme)
+ * to work in branch hebrew-docs
+ * after node.js docs has been updated to use git rebase (the exect git command not known yet - write it here in readme)
 
 ### To build:
 
